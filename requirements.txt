@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+# Only needed for diffusion_posterior_torch.py. Install the build for your machine from
+# https://pytorch.org/get-started/locally/ if the default does not suit you.
+torch
